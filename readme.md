@@ -13,6 +13,13 @@ non-blocking reactive style.
 
 In this blog, I will build classical account service using quarkus + camel-k
 
+Possible area where apache camel-k and quarkus can help:
+- serving machine leaning model
+- build rapid fire micro-services
+- kafka connector
+- EIS pattern
+- ..more..
+
 # Pre-requisite
 
 - k3d (micro k8s)
