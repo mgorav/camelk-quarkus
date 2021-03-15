@@ -46,8 +46,10 @@ kamel run --name account --dev \
 
 NOTE:
 
-n the background, Apache Camel K creates the CRD Integration, which can viewed using following command:
+In the background, Apache Camel K creates the CRD Integration, which can viewed using following command:
 
 ````
 kubectl get integration account -o yaml
 ````
+
+![crd](./crd.png)
